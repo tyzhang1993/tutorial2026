@@ -8,7 +8,7 @@ int main() {
     double length = 4.0;
     double width = 6.0;
     
-    std::cout << "Hello world!" << std::endl;
+    std::cout << "Hello world and Qiwei" << std::endl;
 
     // Set output to fixed point with 2 decimal places
     std::cout << std::fixed << std::setprecision(2);
