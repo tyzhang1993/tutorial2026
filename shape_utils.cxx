@@ -16,6 +16,6 @@ double calculate_rectangle_area(double length, double width) {
 }
 
 double calculate_rectangle_perimeter(double length, double width) {
-    return 5 * (length + width);
+    return 2.000 * (length + width);
 }
 
