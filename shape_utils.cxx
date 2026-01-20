@@ -4,7 +4,7 @@
 
 // Function definitions
 double calculate_circle_area(double radius) {
-    return 3.0 * radius * radius;
+    return 3.1415926 * radius * radius;
 }
 
 double calculate_circle_perimeter(double radius) {
